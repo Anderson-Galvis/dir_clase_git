@@ -1,5 +1,10 @@
 
 body{
 	margin: 10px auto;
-	widht: 75vh;
+	width: 75vh;
+}
+
+h1{
+	font-size: 2em;
+	border-radius: 4px;
 }
