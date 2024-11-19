@@ -1,0 +1,10 @@
+#EJERCICIO EN CLASE 
+
+## Capitulo 1: 
+Introduccion a Git.
+
+## Capitulo 2: 
+FLujo de trabajo basico
+
+## Capitulo 3 :
+ Repositorios remotos
